@@ -62,5 +62,7 @@ isPhoneX = [[UIApplication sharedApplication] delegate].window.safeAreaInsets.bo
 #import <MBProgressHUD/MBProgressHUD.h>
 #import <YYKit/YYKit.h>
 #import "YYAnimatedImageView+Extension.h"
+#import "Macro.h"
+#import "UIView+Frame.h"
 
 #endif /* PrefixHeader_pch */

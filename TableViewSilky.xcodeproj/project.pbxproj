@@ -32,6 +32,25 @@
 		DE055BB7264E590E004312A3 /* CopyAbleLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = DE055BB5264E590E004312A3 /* CopyAbleLabel.m */; };
 		DE055BBB264E5C13004312A3 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = DE055BBA264E5C13004312A3 /* data.json */; };
 		DE055BC126524D57004312A3 /* YYAnimatedImageView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = DE055BC026524D56004312A3 /* YYAnimatedImageView+Extension.m */; };
+		DEDA9A10265631BD00D0B772 /* weibo_7.json in Resources */ = {isa = PBXBuildFile; fileRef = DEDA9A08265631BD00D0B772 /* weibo_7.json */; };
+		DEDA9A11265631BD00D0B772 /* weibo_5.json in Resources */ = {isa = PBXBuildFile; fileRef = DEDA9A09265631BD00D0B772 /* weibo_5.json */; };
+		DEDA9A12265631BD00D0B772 /* weibo_6.json in Resources */ = {isa = PBXBuildFile; fileRef = DEDA9A0A265631BD00D0B772 /* weibo_6.json */; };
+		DEDA9A13265631BD00D0B772 /* weibo_1.json in Resources */ = {isa = PBXBuildFile; fileRef = DEDA9A0B265631BD00D0B772 /* weibo_1.json */; };
+		DEDA9A14265631BD00D0B772 /* weibo_2.json in Resources */ = {isa = PBXBuildFile; fileRef = DEDA9A0C265631BD00D0B772 /* weibo_2.json */; };
+		DEDA9A15265631BD00D0B772 /* weibo_4.json in Resources */ = {isa = PBXBuildFile; fileRef = DEDA9A0D265631BD00D0B772 /* weibo_4.json */; };
+		DEDA9A16265631BD00D0B772 /* weibo_0.json in Resources */ = {isa = PBXBuildFile; fileRef = DEDA9A0E265631BD00D0B772 /* weibo_0.json */; };
+		DEDA9A17265631BD00D0B772 /* weibo_3.json in Resources */ = {isa = PBXBuildFile; fileRef = DEDA9A0F265631BD00D0B772 /* weibo_3.json */; };
+		DEDA9A1E2656321C00D0B772 /* FeedModel.m in Sources */ = {isa = PBXBuildFile; fileRef = DEDA9A1D2656321C00D0B772 /* FeedModel.m */; };
+		DEDA9A212656353F00D0B772 /* WeiboController.m in Sources */ = {isa = PBXBuildFile; fileRef = DEDA9A202656353F00D0B772 /* WeiboController.m */; };
+		DEDA9A25265635E200D0B772 /* WeiboBaseController.m in Sources */ = {isa = PBXBuildFile; fileRef = DEDA9A24265635E200D0B772 /* WeiboBaseController.m */; };
+		DEDA9A2B2656393600D0B772 /* WeiboAvatarView.m in Sources */ = {isa = PBXBuildFile; fileRef = DEDA9A2A2656393600D0B772 /* WeiboAvatarView.m */; };
+		DEDA9A2E26563A0C00D0B772 /* UIFont+Fit.m in Sources */ = {isa = PBXBuildFile; fileRef = DEDA9A2D26563A0C00D0B772 /* UIFont+Fit.m */; };
+		DEDA9A3426563A8C00D0B772 /* FitScaleHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = DEDA9A3226563A8B00D0B772 /* FitScaleHelper.m */; };
+		DEDA9A3726565F2300D0B772 /* WeiboToolbarView.m in Sources */ = {isa = PBXBuildFile; fileRef = DEDA9A3626565F2300D0B772 /* WeiboToolbarView.m */; };
+		DEDA9A40265738E700D0B772 /* WeiboGraphicsTextCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DEDA9A3F265738E700D0B772 /* WeiboGraphicsTextCell.m */; };
+		DEDA9A462657578100D0B772 /* WeiboGraphicsView.m in Sources */ = {isa = PBXBuildFile; fileRef = DEDA9A452657578100D0B772 /* WeiboGraphicsView.m */; };
+		DEDA9A4C265C846900D0B772 /* WeiboTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = DEDA9A4B265C846900D0B772 /* WeiboTextView.m */; };
+		DEDA9A4F265C9CC600D0B772 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = DEDA9A4E265C9CC500D0B772 /* UIView+Frame.m */; };
 		DEF795FE263535DA0089D056 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DEF795FD263535DA0089D056 /* AppDelegate.m */; };
 		DEF79601263535DA0089D056 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DEF79600263535DA0089D056 /* SceneDelegate.m */; };
 		DEF79604263535DA0089D056 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DEF79603263535DA0089D056 /* ViewController.m */; };
@@ -108,6 +127,37 @@
 		DE055BBA264E5C13004312A3 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		DE055BBF26524D56004312A3 /* YYAnimatedImageView+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "YYAnimatedImageView+Extension.h"; sourceTree = "<group>"; };
 		DE055BC026524D56004312A3 /* YYAnimatedImageView+Extension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "YYAnimatedImageView+Extension.m"; sourceTree = "<group>"; };
+		DEDA9A08265631BD00D0B772 /* weibo_7.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = weibo_7.json; sourceTree = "<group>"; };
+		DEDA9A09265631BD00D0B772 /* weibo_5.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = weibo_5.json; sourceTree = "<group>"; };
+		DEDA9A0A265631BD00D0B772 /* weibo_6.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = weibo_6.json; sourceTree = "<group>"; };
+		DEDA9A0B265631BD00D0B772 /* weibo_1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = weibo_1.json; sourceTree = "<group>"; };
+		DEDA9A0C265631BD00D0B772 /* weibo_2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = weibo_2.json; sourceTree = "<group>"; };
+		DEDA9A0D265631BD00D0B772 /* weibo_4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = weibo_4.json; sourceTree = "<group>"; };
+		DEDA9A0E265631BD00D0B772 /* weibo_0.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = weibo_0.json; sourceTree = "<group>"; };
+		DEDA9A0F265631BD00D0B772 /* weibo_3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = weibo_3.json; sourceTree = "<group>"; };
+		DEDA9A1C2656321C00D0B772 /* FeedModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FeedModel.h; sourceTree = "<group>"; };
+		DEDA9A1D2656321C00D0B772 /* FeedModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FeedModel.m; sourceTree = "<group>"; };
+		DEDA9A1F2656353F00D0B772 /* WeiboController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WeiboController.h; sourceTree = "<group>"; };
+		DEDA9A202656353F00D0B772 /* WeiboController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeiboController.m; sourceTree = "<group>"; };
+		DEDA9A23265635E200D0B772 /* WeiboBaseController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WeiboBaseController.h; sourceTree = "<group>"; };
+		DEDA9A24265635E200D0B772 /* WeiboBaseController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeiboBaseController.m; sourceTree = "<group>"; };
+		DEDA9A292656393600D0B772 /* WeiboAvatarView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WeiboAvatarView.h; sourceTree = "<group>"; };
+		DEDA9A2A2656393600D0B772 /* WeiboAvatarView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeiboAvatarView.m; sourceTree = "<group>"; };
+		DEDA9A2C26563A0C00D0B772 /* UIFont+Fit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIFont+Fit.h"; sourceTree = "<group>"; };
+		DEDA9A2D26563A0C00D0B772 /* UIFont+Fit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIFont+Fit.m"; sourceTree = "<group>"; };
+		DEDA9A3026563A7500D0B772 /* Macro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Macro.h; sourceTree = "<group>"; };
+		DEDA9A3226563A8B00D0B772 /* FitScaleHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FitScaleHelper.m; sourceTree = "<group>"; };
+		DEDA9A3326563A8B00D0B772 /* FitScaleHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FitScaleHelper.h; sourceTree = "<group>"; };
+		DEDA9A3526565F2300D0B772 /* WeiboToolbarView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WeiboToolbarView.h; sourceTree = "<group>"; };
+		DEDA9A3626565F2300D0B772 /* WeiboToolbarView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeiboToolbarView.m; sourceTree = "<group>"; };
+		DEDA9A3E265738E700D0B772 /* WeiboGraphicsTextCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WeiboGraphicsTextCell.h; sourceTree = "<group>"; };
+		DEDA9A3F265738E700D0B772 /* WeiboGraphicsTextCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeiboGraphicsTextCell.m; sourceTree = "<group>"; };
+		DEDA9A442657578100D0B772 /* WeiboGraphicsView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WeiboGraphicsView.h; sourceTree = "<group>"; };
+		DEDA9A452657578100D0B772 /* WeiboGraphicsView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeiboGraphicsView.m; sourceTree = "<group>"; };
+		DEDA9A4A265C846900D0B772 /* WeiboTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeiboTextView.h; sourceTree = "<group>"; };
+		DEDA9A4B265C846900D0B772 /* WeiboTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeiboTextView.m; sourceTree = "<group>"; };
+		DEDA9A4D265C9CC500D0B772 /* UIView+Frame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
+		DEDA9A4E265C9CC500D0B772 /* UIView+Frame.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
 		DEF795F9263535DA0089D056 /* TableViewSilky.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewSilky.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEF795FC263535DA0089D056 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DEF795FD263535DA0089D056 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -250,6 +300,8 @@
 		DE055B71264E5362004312A3 /* Category */ = {
 			isa = PBXGroup;
 			children = (
+				DEDA9A2C26563A0C00D0B772 /* UIFont+Fit.h */,
+				DEDA9A2D26563A0C00D0B772 /* UIFont+Fit.m */,
 				DE055BB2264E58B4004312A3 /* MBProgressHUD+Show.h */,
 				DE055BB3264E58B4004312A3 /* MBProgressHUD+Show.m */,
 				DE055B7D264E5376004312A3 /* NSString+Extension.h */,
@@ -258,6 +310,8 @@
 				DE055B80264E5377004312A3 /* UILabel+TapAction.m */,
 				DE055BBF26524D56004312A3 /* YYAnimatedImageView+Extension.h */,
 				DE055BC026524D56004312A3 /* YYAnimatedImageView+Extension.m */,
+				DEDA9A4D265C9CC500D0B772 /* UIView+Frame.h */,
+				DEDA9A4E265C9CC500D0B772 /* UIView+Frame.m */,
 			);
 			path = Category;
 			sourceTree = "<group>";
@@ -299,6 +353,7 @@
 		DE055BB8264E5C13004312A3 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				DEDA99F7265631AB00D0B772 /* WeiboData */,
 				DE055BB9264E5C13004312A3 /* Data */,
 			);
 			path = Resource;
@@ -310,6 +365,93 @@
 				DE055BBA264E5C13004312A3 /* data.json */,
 			);
 			path = Data;
+			sourceTree = "<group>";
+		};
+		DEDA99F7265631AB00D0B772 /* WeiboData */ = {
+			isa = PBXGroup;
+			children = (
+				DEDA9A0E265631BD00D0B772 /* weibo_0.json */,
+				DEDA9A0B265631BD00D0B772 /* weibo_1.json */,
+				DEDA9A0C265631BD00D0B772 /* weibo_2.json */,
+				DEDA9A0F265631BD00D0B772 /* weibo_3.json */,
+				DEDA9A0D265631BD00D0B772 /* weibo_4.json */,
+				DEDA9A09265631BD00D0B772 /* weibo_5.json */,
+				DEDA9A0A265631BD00D0B772 /* weibo_6.json */,
+				DEDA9A08265631BD00D0B772 /* weibo_7.json */,
+			);
+			path = WeiboData;
+			sourceTree = "<group>";
+		};
+		DEDA9A18265631D200D0B772 /* Weibo */ = {
+			isa = PBXGroup;
+			children = (
+				DEDA9A22265635BB00D0B772 /* WeiboBase */,
+				DEDA9A19265631D200D0B772 /* Controller */,
+				DEDA9A1A265631D200D0B772 /* Model */,
+				DEDA9A1B265631D200D0B772 /* View */,
+			);
+			path = Weibo;
+			sourceTree = "<group>";
+		};
+		DEDA9A19265631D200D0B772 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				DEDA9A1F2656353F00D0B772 /* WeiboController.h */,
+				DEDA9A202656353F00D0B772 /* WeiboController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		DEDA9A1A265631D200D0B772 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				DEDA9A1C2656321C00D0B772 /* FeedModel.h */,
+				DEDA9A1D2656321C00D0B772 /* FeedModel.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		DEDA9A1B265631D200D0B772 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				DEDA9A4A265C846900D0B772 /* WeiboTextView.h */,
+				DEDA9A4B265C846900D0B772 /* WeiboTextView.m */,
+				DEDA9A292656393600D0B772 /* WeiboAvatarView.h */,
+				DEDA9A2A2656393600D0B772 /* WeiboAvatarView.m */,
+				DEDA9A3526565F2300D0B772 /* WeiboToolbarView.h */,
+				DEDA9A3626565F2300D0B772 /* WeiboToolbarView.m */,
+				DEDA9A3E265738E700D0B772 /* WeiboGraphicsTextCell.h */,
+				DEDA9A3F265738E700D0B772 /* WeiboGraphicsTextCell.m */,
+				DEDA9A442657578100D0B772 /* WeiboGraphicsView.h */,
+				DEDA9A452657578100D0B772 /* WeiboGraphicsView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		DEDA9A22265635BB00D0B772 /* WeiboBase */ = {
+			isa = PBXGroup;
+			children = (
+				DEDA9A23265635E200D0B772 /* WeiboBaseController.h */,
+				DEDA9A24265635E200D0B772 /* WeiboBaseController.m */,
+			);
+			path = WeiboBase;
+			sourceTree = "<group>";
+		};
+		DEDA9A2F26563A7500D0B772 /* Macro */ = {
+			isa = PBXGroup;
+			children = (
+				DEDA9A3026563A7500D0B772 /* Macro.h */,
+			);
+			path = Macro;
+			sourceTree = "<group>";
+		};
+		DEDA9A3126563A8B00D0B772 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				DEDA9A3326563A8B00D0B772 /* FitScaleHelper.h */,
+				DEDA9A3226563A8B00D0B772 /* FitScaleHelper.m */,
+			);
+			path = Helper;
 			sourceTree = "<group>";
 		};
 		DEF795F0263535DA0089D056 = {
@@ -337,11 +479,14 @@
 		DEF795FB263535DA0089D056 /* TableViewSilky */ = {
 			isa = PBXGroup;
 			children = (
+				DEDA9A3126563A8B00D0B772 /* Helper */,
+				DEDA9A2F26563A7500D0B772 /* Macro */,
 				DE055BB8264E5C13004312A3 /* Resource */,
 				DE055B84264E552D004312A3 /* ThirdLib */,
 				DE055B71264E5362004312A3 /* Category */,
 				DE055B5F264E4C39004312A3 /* Base */,
 				DE055B55264E4B72004312A3 /* WechatMoments */,
+				DEDA9A18265631D200D0B772 /* Weibo */,
 				DEF79634263536130089D056 /* Tools */,
 				DEF795FC263535DA0089D056 /* AppDelegate.h */,
 				DEF795FD263535DA0089D056 /* AppDelegate.m */,
@@ -505,11 +650,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DEDA9A13265631BD00D0B772 /* weibo_1.json in Resources */,
+				DEDA9A15265631BD00D0B772 /* weibo_4.json in Resources */,
+				DEDA9A10265631BD00D0B772 /* weibo_7.json in Resources */,
 				DEF7960C263535DD0089D056 /* LaunchScreen.storyboard in Resources */,
 				DE055BBB264E5C13004312A3 /* data.json in Resources */,
 				DE055B92264E552E004312A3 /* resource.xcassets in Resources */,
+				DEDA9A16265631BD00D0B772 /* weibo_0.json in Resources */,
+				DEDA9A14265631BD00D0B772 /* weibo_2.json in Resources */,
 				DEF79609263535DD0089D056 /* Assets.xcassets in Resources */,
 				DEF79607263535DA0089D056 /* Main.storyboard in Resources */,
+				DEDA9A17265631BD00D0B772 /* weibo_3.json in Resources */,
+				DEDA9A11265631BD00D0B772 /* weibo_5.json in Resources */,
+				DEDA9A12265631BD00D0B772 /* weibo_6.json in Resources */,
 				DE055BAB264E575A004312A3 /* LikeUsersCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -568,22 +721,33 @@
 				DE055B93264E552E004312A3 /* WMPhotoBrowser.m in Sources */,
 				DEF79638263536130089D056 /* FPSDisplay.m in Sources */,
 				DEF79604263535DA0089D056 /* ViewController.m in Sources */,
+				DEDA9A25265635E200D0B772 /* WeiboBaseController.m in Sources */,
 				DE055BB4264E58B4004312A3 /* MBProgressHUD+Show.m in Sources */,
+				DEDA9A4F265C9CC600D0B772 /* UIView+Frame.m in Sources */,
 				DEF795FE263535DA0089D056 /* AppDelegate.m in Sources */,
 				DE055B6D264E4DB8004312A3 /* FriendInfoModel.m in Sources */,
 				DE055B81264E5377004312A3 /* NSString+Extension.m in Sources */,
 				DE055BAE264E575A004312A3 /* LikeUsersCell.m in Sources */,
+				DEDA9A40265738E700D0B772 /* WeiboGraphicsTextCell.m in Sources */,
 				DE055B5B264E4BAF004312A3 /* WechatMomentsController.m in Sources */,
 				DE055B95264E552E004312A3 /* UIViewController+WMExtension.m in Sources */,
+				DEDA9A462657578100D0B772 /* WeiboGraphicsView.m in Sources */,
 				DEF7960F263535DD0089D056 /* main.m in Sources */,
 				DE055BB1264E584F004312A3 /* JGGView.m in Sources */,
+				DEDA9A3726565F2300D0B772 /* WeiboToolbarView.m in Sources */,
 				DE055B96264E552E004312A3 /* WMPhotoBrowserCell.m in Sources */,
 				DE055BB7264E590E004312A3 /* CopyAbleLabel.m in Sources */,
+				DEDA9A4C265C846900D0B772 /* WeiboTextView.m in Sources */,
 				DE055B6A264E4D7A004312A3 /* MessageInfoModel.m in Sources */,
 				DE055B70264E4DDE004312A3 /* Layout.m in Sources */,
+				DEDA9A3426563A8C00D0B772 /* FitScaleHelper.m in Sources */,
 				DE055B83264E5377004312A3 /* UILabel+TapAction.m in Sources */,
+				DEDA9A212656353F00D0B772 /* WeiboController.m in Sources */,
 				DE055B69264E4D7A004312A3 /* CommentInfoModel.m in Sources */,
 				DE055B94264E552E004312A3 /* UIView+WMFrame.m in Sources */,
+				DEDA9A2E26563A0C00D0B772 /* UIFont+Fit.m in Sources */,
+				DEDA9A2B2656393600D0B772 /* WeiboAvatarView.m in Sources */,
+				DEDA9A1E2656321C00D0B772 /* FeedModel.m in Sources */,
 				DEF79601263535DA0089D056 /* SceneDelegate.m in Sources */,
 				DE055BC126524D57004312A3 /* YYAnimatedImageView+Extension.m in Sources */,
 			);
@@ -759,6 +923,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NN37GFA72R;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/TableViewSilky/PrefixHeader.pch";
 				INFOPLIST_FILE = TableViewSilky/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -778,6 +943,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NN37GFA72R;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/TableViewSilky/PrefixHeader.pch";
 				INFOPLIST_FILE = TableViewSilky/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (

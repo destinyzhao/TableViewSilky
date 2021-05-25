@@ -8,6 +8,7 @@
 #import "ViewController.h"
 #import "FPSDisplay.h"
 #import "WechatMomentsController.h"
+#import "WeiboController.h"
 
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource>
 
@@ -25,7 +26,7 @@
     
     [FPSDisplay shareFPSDisplay];
     
-    self.dataList = @[@"微信朋友圈"];
+    self.dataList = @[@"微信朋友圈",@"微博"];
 
 }
 
@@ -45,8 +46,23 @@
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
-    WechatMomentsController *momentsVC = [[WechatMomentsController alloc]init];
-    [self.navigationController pushViewController:momentsVC animated:YES];
+    switch (indexPath.row) {
+        case 0:
+        {
+            WechatMomentsController *momentsVC = [[WechatMomentsController alloc]init];
+            [self.navigationController pushViewController:momentsVC animated:YES];
+        }
+            break;
+        case 1:
+        {
+            WeiboController *momentsVC = [[WeiboController alloc]init];
+            [self.navigationController pushViewController:momentsVC animated:YES];
+        }
+            break;
+        default:
+            break;
+    }
+   
 }
 
 
